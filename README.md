@@ -1,8 +1,8 @@
 ### Hi there, I'm Martin 👋
 
-- 🔭 I’m working in #infosec, primarily on automation, security incident response, and detection engineering.
-- 👯 I’m looking to collaborate on open source of any kind
-- 💬 Ask me about Security Incident Response, DevSecOps, Shift Left, Security Automation, Java and Python Development, ...
-- 📫 How to reach me: @martinspielmann everywhere
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: No fun facts. I'm german 
+- 🔐 Incident Response & Detection Engineering – architect automated workflows (SOAR + custom software development) that eliminate repetitive triage and improve signal quality.
+- 🎯 Decision Enablement – break down complex security situations into actionable, prioritized items enabling confident management decisions.
+- 🤝 DevSecOps Bridge – translate threat scenarios into developer stories; shift left without friction.
+- 🚀 Scale & Automation – build integrations that connect telemetry, enrichment, and response across teams.
+- 💬 Areas: cyber defense, incident response, detection engineering, SOAR, DevOps/DevSecOps, automation pipelines.
+- 📫 Reach me: [Email](mailto:mail@martinspielmann.de) · Matrix: `@mail:martinspielmann.de` · [LinkedIn](https://linkedin.com/in/martin-spielmann-9a26a6149) · [Mastodon](https://infosec.exchange/@martinspielmann)
